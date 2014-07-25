@@ -1,0 +1,23 @@
+{
+  "name": "compactjs",
+  "version": "0.0.0",
+  "description": "compact",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rylnd/compactjs.git"
+  },
+  "keywords": [
+    "compact",
+    "array"
+  ],
+  "author": "Ryland Herrick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rylnd/compactjs/issues"
+  },
+  "homepage": "https://github.com/rylnd/compactjs"
+}
